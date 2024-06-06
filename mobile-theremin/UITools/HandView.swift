@@ -2,7 +2,7 @@
 //  HandView.swift
 //  Theremin
 //
-//  Created by Elena Hertel on 5/21/24.
+//  Created by Alicia Chun on 5/21/24.
 //
 
 import AudioKit
